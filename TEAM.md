@@ -1,5 +1,13 @@
 # 团队介绍文档
 在这里留下你的信息，成为我们的第一张闪耀名片吧。🥇
+# Self introduction
+## personal information
+>My name is **Jury Chan**  
+My student ID is ***23064019***   My major is pratical statistics
+## Self expectation
+>It's my priority to join in the **Code Pipeline Train**. My preference in **computer career** is the estatistics sorting. I hope our group will prosper for good.
+
+![fighting!](https://pic.huke88.com/app/2019/09/21/12099867_nfunsz8ja6o3ur45o6opfajubpbxoy8c.jpg)
 
 
 ## 仓库主人
